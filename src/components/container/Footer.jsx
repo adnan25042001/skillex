@@ -60,7 +60,7 @@ const Footer = () => {
                 </div>
                 <div>
                     <div className="font-bold mb-6">Follow us</div>
-                    <div className="text-sm mb-4">
+                    <div className="text-sm mb-4 break-all">
                         adnan.hussain.136660@gmail.com
                     </div>
                     <div className="text-sm">+91 8586957610</div>

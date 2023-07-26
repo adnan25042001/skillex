@@ -11,7 +11,10 @@ const MobileNavLinks = ({ nav, setToggle }) => {
                 duration={500}
                 offset={-50}
                 className="font-bold transition-all duration-300"
-                onClick={(prev) => setToggle(!prev)}
+                onClick={(prev) => {
+                    document.title = "Skillex : " + nav.link;
+                    setToggle(!prev);
+                }}
             >
                 {nav.link}
             </Link>

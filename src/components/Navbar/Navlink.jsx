@@ -10,6 +10,7 @@ const Navlink = ({ nav }) => {
                 smooth={true}
                 duration={500}
                 offset={-50}
+                onClick={() => (document.title = "Skillex : " + nav.link)}
                 className="font-bold transition-all duration-300"
             >
                 {nav.link}

@@ -18,4 +18,8 @@
     .section {
         @apply container mx-auto py-24 px-0;
     }
+
+    .animate-slide:hover{
+        animation-play-state: paused;
+    }
 }

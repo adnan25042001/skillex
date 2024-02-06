@@ -1,4 +1,4 @@
-#Skillex
+# Skillex
 
 Welcome to Skillex, a cutting-edge e-learning platform! Embark on a journey of knowledge and skill enhancement from the comfort of your own space. You can visit the live site here [https://skillex.onrender.com/](https://skillex.onrender.com/).
 
